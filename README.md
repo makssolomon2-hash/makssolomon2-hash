@@ -15,11 +15,11 @@
 <br/>
 
 
-# Hi, I'm Maks Solomon 👋
+# Hi, there! 👋
 
 **Frontend Developer** focused on **React**, **Next.js**, **JavaScript** and smooth animations.
 
-📍 Poznań, Poland  · 🇬🇧 English (B2) · 🇵🇱 Polish (B2)
+📍 Poland  · 🇬🇧 English (B2) · 🇵🇱 Polish (B2)
 
 ---
 
@@ -38,7 +38,6 @@ I care about:
 
 I'm actively expanding my skill set toward full-stack development. On the backend I'm working with Node.js, Express, learning how to design APIs, structure server-side code and connect it cleanly to the frontend. Frontend is where I'm strongest today; backend is a work in progress, and I'm building real projects to practice it rather than just following tutorials.
 
-Currently looking for **junior / mid frontend** opportunities (React / Next.js).
 
 ---
 
@@ -61,7 +60,6 @@ Currently looking for **junior / mid frontend** opportunities (React / Next.js).
 
 - 📧 **Email:** maks.solomon2@gmail.com
 - 🐙 **GitHub:** [github.com/makssolomon2-hash](https://github.com/makssolomon2-hash)
-- 💼 **LinkedIn:** *(add your LinkedIn link here)*
 
 ---
 
