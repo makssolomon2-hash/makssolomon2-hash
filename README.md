@@ -58,7 +58,7 @@ I'm actively expanding my skill set toward full-stack development. On the backen
 
 ### Connect with me
 
-- 📧 **Email:** maks.solomon2@gmail.com
+- 📧 **Email:** slmn_dev@gmail.com
 - 🐙 **GitHub:** [github.com/makssolomon2-hash](https://github.com/makssolomon2-hash)
 
 ---
