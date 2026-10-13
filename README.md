@@ -27,7 +27,7 @@
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| **Portfolio Website** | Animated product landing page inspired by Apple | React, Vite, Tailwind, GSAP, Three.js | [Repo](https://github.com/makssolomon2-hash/nextjs-ts-portfolio)|
+| **Portfolio Website** | Personal Portfolio | Next.JS, Tailwind, GSAP, Three.js | [Repo](https://github.com/makssolomon2-hash/nextjs-ts-portfolio)|
 | **PERSONAL FRONT-END STARTER** | Scroll-triggered animations & landing reveals | React, PS1| [Repo](https://github.com/makssolomon2-hash/front-end-starters) |
 | **MacBook Landing** | Animated product landing page inspired by Apple | React, Vite, Tailwind, GSAP, Three.js | [Repo](https://github.com/makssolomon2-hash/macbook-landing) |
 | **Mobbin Remake** | Clean UI remake focused on modern layout patterns | Next.js / React, Tailwind | [Repo](https://github.com/makssolomon2-hash/mobbin-remake) |
