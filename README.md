@@ -23,24 +23,6 @@
 
 ---
 
-### About me
-
-Self-taught frontend developer.  
-I started building websites and web/mobile application development **5 years ago**,  and for the **past year** I’ve been fully focused on the modern stack.
-
-I care about:
-- Smooth animations & micro-interactions (GSAP, Framer Motion)
-- Clean architecture and reusable components
-- Performance and good UX
-- Pixel-perfect, responsive interfaces
-
-### Growing into full-stack
-
-I'm actively expanding my skill set toward full-stack development. On the backend I'm working with Node.js, Express, learning how to design APIs, structure server-side code and connect it cleanly to the frontend. Frontend is where I'm strongest today; backend is a work in progress, and I'm building real projects to practice it rather than just following tutorials.
-
-
----
-
 ### Selected Projects
 
 | Project | Description | Tech | Links |
