@@ -19,7 +19,7 @@
 
 **Frontend Developer** focused on **React**, **Next.js**, **JavaScript** and smooth animations.
 
-📍 Poland  · 🇬🇧 English · 🇵🇱 Polish 
+📍 Poland  · us English · 🇵🇱 Polish 
 
 ---
 
