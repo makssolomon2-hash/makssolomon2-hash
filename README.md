@@ -34,7 +34,7 @@
 | **Cloudy** | 	Modern web messenger with real-time chat, user profiles, dark/light themes | React, GSAP, Tailwind | [Repo](https://github.com/makssolomon2-hash/cloudy) |
 | **DJ-DIGGER WEB-UI** | Responsive web interface for a music-discovery tool for DJs, with smooth transitions and animated interactions | React, GSAP, Tailwind | [Repo](https://github.com/makssolomon2-hash/dj-digger-ui) |
 | **3D Moon Phase Calendar** | Interactive real-time 3D moon phase calendar | React, Three.js, GSAP | [Repo](https://github.com/makssolomon2-hash/moon-3d-calendar) |
-| **GSAP Practice** | Scroll-triggered animations & landing reveals | GSAP, Tailwind | [Repo]([https://github.com/makssolomon2-hash/gsap-practice](https://github.com/makssolomon2-hash/landing-page-reveal-animation) |
+| **GSAP Practice** | Scroll-triggered animations & landing reveals | GSAP, Tailwind | [Repo](https://github.com/makssolomon2-hash/landing-page-reveal-animation)] |
 
 ---
 
