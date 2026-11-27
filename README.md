@@ -33,6 +33,7 @@
 | **Mobbin Remake** | Clean UI remake focused on modern layout patterns | Next.js / React, Tailwind | [Repo](https://github.com/makssolomon2-hash/mobbin-remake) |
 | **Cloudy** | 	Modern web messenger with real-time chat, user profiles, dark/light themes | React, GSAP, Tailwind | [Repo](https://github.com/makssolomon2-hash/cloudy) |
 | **GSAP Practice** | Scroll-triggered animations & landing reveals | GSAP, Tailwind | [Repo](https://github.com/makssolomon2-hash/landing-page-reveal-animation) |
+| **AI App Practice** | Node.js course projects with Next.js AI chat experiments and a Gemini-powered chat app | JavaScript, Node.js, Next.js, Gemini | [Repo](https://github.com/makssolomon2-hash/ai-app-practice) |
 
 ---
 
